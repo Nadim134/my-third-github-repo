@@ -1,0 +1,13 @@
+.nadim{
+    background-color: bisque;
+    display: inline-block;
+    width:250px;
+    height:auto;
+    text-align: justify;
+    padding:10px 10px;
+    box-shadow: 10px 10px 10px black;
+    margin-left:20px
+}
+h2{
+    text-align: center;
+}
